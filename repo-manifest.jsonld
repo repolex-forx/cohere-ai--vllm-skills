@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cohere-ai/vllm-skills/commit/2a9ed1ff5dd822a521a453f49eff84e8dd5a7071",
       "git:hexsha": "2a9ed1ff5dd822a521a453f49eff84e8dd5a7071",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
